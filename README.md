@@ -1,4 +1,4 @@
-# Arduino
+# Arduino Noël 2018 Papa
 
 This is a personal project that I gave to my Father as a present for Christmas 2018. The main goal of this project is to create a mail alert system - a system that notifies the household when the mailbox outside is full. That way instead of walking outside to check the mail, the receiver inside of the house tells you when mail has been received. This device also warns you when the battery is low and needs to be changed. 
 
