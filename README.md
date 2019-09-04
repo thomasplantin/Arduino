@@ -1,6 +1,6 @@
 # Arduino
 
-This is a personal project that I gave to my Father as a present for Christmas 2018. The main goal of this project is to create a mail alert system - a system that notifies the household when the mailbox outside is full. That way instead of walking outside to check the mail, the receiver inside of the house tells you the state of the mailbox. This device also warns you when the battery is low and needs to be changed. 
+This is a personal project that I gave to my Father as a present for Christmas 2018. The main goal of this project is to create a mail alert system - a system that notifies the household when the mailbox outside is full. That way instead of walking outside to check the mail, the receiver inside of the house tells you when mail has been received. This device also warns you when the battery is low and needs to be changed. 
 
 /*Code for the Arduino of the Mailbox Transmitter Module of Papa's gift. 
  * This is the final version of the code for this project. It checks if there is mail in the mailbox, and if there is, it sends a signal to the module in the house to notify to user.
